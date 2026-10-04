@@ -3,7 +3,9 @@
     <LangVersion>Latest</LangVersion>
     <Copyright>Ilya Belyanskiy 2025</Copyright>
     <Authors>Belyanskiy Ilya</Authors>
-    <PackageProjectUrl>https://github.com/win7user10/Laraue.Crawling</PackageProjectUrl>
+    <PackageProjectUrl>https://laraue.com/blog/projects/crawler</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Laraue/Laraue.Crawling</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
     <!-- Designate all projects as non-package projects by default -->
     <IsPackable>false</IsPackable>
     <TargetFramework>netstandard2.1</TargetFramework>
